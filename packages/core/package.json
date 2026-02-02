@@ -33,7 +33,7 @@
   "author": "Wireframe Contributors",
   "license": "MIT",
   "dependencies": {
-    "eventemitter3": "^5.0.1"
+    "eventemitter3": "^5.0.4"
   },
   "devDependencies": {
     "@types/node": "^20.11.5",
